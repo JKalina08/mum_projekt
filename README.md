@@ -6,8 +6,8 @@
 - Níže následuje zpracování úkolu č.14 a 15 v interaktivním prostředí Jupyter notebook.
 
 #### Odkazy na vybrané úkoly:
-- [14. Histogram](https://github.com/JKalina08/mum_projekt/ukol_14.ipynb)
-- [15. Kvantování a vzorkování](https://github.com/JKalina08/mum_projekt/ukol_15.ipynb)
+- [14. Histogram](https://github.com/JKalina08/mum_projekt/blob/main/ukol_14.ipynb)
+- [15. Kvantování a vzorkování](https://github.com/JKalina08/mum_projekt/blob/main/ukol_15.ipynb)
 
 #### Povinné náležítosti práce:
 1. __Úvod__ – zasazení úkolu do kontextu probírané látky, co bude předmětem zkoumání.
